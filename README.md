@@ -21,3 +21,6 @@ The main parts of this project are:
 
 4-Model Building: 
 	building two models Random forest and SVM by training the model, tuning the parametrs and test 
+
+
+NB: data repository contains all the data, but it is not availabe in gitlab because of its huge size (1.6 GB)
