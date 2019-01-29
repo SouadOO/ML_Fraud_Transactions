@@ -11,10 +11,10 @@ We are going to build an intelligent model which can be able to learn and tell i
 The main parts of this project are:
 
 1-Data exploratoty Analysis : 
-	in this part we tried to analyse the data using simple data visualization.
+	.
 
 2-Data Cleaning: 
-	clean data based on the previous analysis
+	clean data based on data analysis and data visualization
 
 3-Data Preprocessing:
 	preprocessing data (feature encoding,scaling,dimension reduction)
